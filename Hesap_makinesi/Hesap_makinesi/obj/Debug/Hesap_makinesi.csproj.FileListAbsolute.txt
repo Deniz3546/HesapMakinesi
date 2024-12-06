@@ -1,0 +1,10 @@
+C:\Users\deniz\Desktop\Udemy\Hesap_makinesi\Hesap_makinesi\bin\Debug\Hesap_makinesi.exe.config
+C:\Users\deniz\Desktop\Udemy\Hesap_makinesi\Hesap_makinesi\bin\Debug\Hesap_makinesi.exe
+C:\Users\deniz\Desktop\Udemy\Hesap_makinesi\Hesap_makinesi\bin\Debug\Hesap_makinesi.pdb
+C:\Users\deniz\Desktop\Udemy\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Udemy\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.Form1.resources
+C:\Users\deniz\Desktop\Udemy\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.Properties.Resources.resources
+C:\Users\deniz\Desktop\Udemy\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Udemy\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Udemy\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.exe
+C:\Users\deniz\Desktop\Udemy\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.pdb
